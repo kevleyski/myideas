@@ -1,5 +1,5 @@
-Erkles
+/* ok c */
 
-23
-int a = 3;
+int a = 23;
 a++;
+a += 3;
