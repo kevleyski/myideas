@@ -1,3 +1,3 @@
 # myideas
 
-Stuff
+Kevs public repository, take what you like ;-)
