@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/klambert/workspace/python/main.cpp" "/Users/klambert/workspace/python/cmake-build-debug/CMakeFiles/python.dir/main.cpp.o"
+  "/Users/klambert/workspace/myideas/python/main.cpp" "/Users/klambert/workspace/myideas/python/cmake-build-debug/CMakeFiles/python.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

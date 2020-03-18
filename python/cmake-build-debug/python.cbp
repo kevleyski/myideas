@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/klambert/workspace/python/cmake-build-debug"/>
+				<Option working_dir="/Users/klambert/workspace/myideas/python/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/klambert/workspace/python/cmake-build-debug"/>
+				<Option working_dir="/Users/klambert/workspace/myideas/python/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/klambert/workspace/python/cmake-build-debug"/>
+				<Option working_dir="/Users/klambert/workspace/myideas/python/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="python">
-				<Option output="/Users/klambert/workspace/python/cmake-build-debug/python" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/klambert/workspace/python/cmake-build-debug"/>
+				<Option output="/Users/klambert/workspace/myideas/python/cmake-build-debug/python" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/klambert/workspace/myideas/python/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 python"/>
-					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 python"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="python/fast">
-				<Option output="/Users/klambert/workspace/python/cmake-build-debug/python" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/klambert/workspace/python/cmake-build-debug"/>
+				<Option output="/Users/klambert/workspace/myideas/python/cmake-build-debug/python" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/klambert/workspace/myideas/python/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 python/fast"/>
-					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 python/fast"/>
+					<CompileFile command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/local/bin/gmake -j8 -f &quot;/Users/klambert/workspace/myideas/python/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/klambert/workspace/python/main.cpp">
+		<Unit filename="/Users/klambert/workspace/myideas/python/main.cpp">
 			<Option target="python"/>
 		</Unit>
-		<Unit filename="/Users/klambert/workspace/python/CMakeLists.txt">
+		<Unit filename="/Users/klambert/workspace/myideas/python/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
