@@ -12,10 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a64fd1-72aa-44ed-a76a-4309db53102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leet3_groupAnagrams.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet3_groupAnagrams.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet3_groupAnagrams.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <updated>1586159234099</updated>
       <workItem from="1586159237634" duration="2890000" />
       <workItem from="1586163785918" duration="239000" />
-      <workItem from="1586164264155" duration="11713000" />
+      <workItem from="1586164264155" duration="12736000" />
     </task>
     <task id="LOCAL-00001" summary="leetcode week 1 problem 1">
       <created>1586164934403</created>
@@ -94,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586168361342</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="leetcode week 1 problem 6">
+      <created>1586176543999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586176543999</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +108,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="leetcode week 1 problem 1" />
     <MESSAGE value="leetcode week 1 problem 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="leetcode week 1 problem 2" />
+    <MESSAGE value="leetcode week 1 problem 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode week 1 problem 6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586159262892">
@@ -118,38 +124,38 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="1021" y="372" key="#xdebugger.evaluate/0.0.1920.1200@0.0.1920.1200" timestamp="1586176383503" />
-    <state x="568" y="206" key="CommitChangelistDialog2" timestamp="1586168361238">
+    <state x="568" y="206" key="CommitChangelistDialog2" timestamp="1586176543892">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="568" y="206" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1586168361238" />
+    <state x="568" y="206" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1586176543892" />
     <state width="521" height="466" key="DebuggerActiveHint" timestamp="1586173582461">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state width="521" height="466" key="DebuggerActiveHint/0.0.1920.1200@0.0.1920.1200" timestamp="1586173582461" />
-    <state width="1588" height="384" key="GridCell.Tab.0.bottom" timestamp="1586176346185">
+    <state width="1588" height="311" key="GridCell.Tab.0.bottom" timestamp="1586176923766">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="384" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1586176346185" />
-    <state width="1588" height="384" key="GridCell.Tab.0.center" timestamp="1586176346184">
+    <state width="1588" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1586176923766" />
+    <state width="1588" height="311" key="GridCell.Tab.0.center" timestamp="1586176923765">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="384" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1586176346184" />
-    <state width="1588" height="384" key="GridCell.Tab.0.left" timestamp="1586176346184">
+    <state width="1588" height="311" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1586176923765" />
+    <state width="1588" height="311" key="GridCell.Tab.0.left" timestamp="1586176923765">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="384" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1586176346184" />
-    <state width="1588" height="384" key="GridCell.Tab.0.right" timestamp="1586176346185">
+    <state width="1588" height="311" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1586176923765" />
+    <state width="1588" height="311" key="GridCell.Tab.0.right" timestamp="1586176923766">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="384" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1586176346185" />
+    <state width="1588" height="311" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1586176923766" />
     <state x="486" y="242" width="1434" height="722" key="SettingsEditor" timestamp="1586164597988">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="486" y="242" width="1434" height="722" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1586164597988" />
-    <state x="585" y="343" key="Vcs.Push.Dialog.v2" timestamp="1586168363325">
+    <state x="585" y="343" key="Vcs.Push.Dialog.v2" timestamp="1586176545442">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="585" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1586168363325" />
+    <state x="585" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1586176545442" />
     <state x="707" y="302" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1586159554153">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
@@ -171,7 +177,7 @@
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/leet3_groupAnagrams.cpp</url>
           <line>137</line>
-          <option name="timeStamp" value="40" />
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

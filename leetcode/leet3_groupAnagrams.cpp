@@ -55,7 +55,7 @@ char *** groupAnagrams(char ** strs, int strsSize, int* returnSize, int** return
         // hash
         char* thisStringPtr = *strsPtr;
         while (*thisStringPtr) {
-            *hashesPtr += *thisStringPtr;
+            *hashesPtr += *thisStringPtr * 20;
             thisStringPtr++;
         }
         hashesPtr++;
