@@ -12,10 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="38a64fd1-72aa-44ed-a76a-4309db53102e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet2_maxSubArray.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet1_singleNumber.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet1_singleNumber.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet1_singleNumber2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet1_singleNumber2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +30,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1a9sdmxJIg6AfjX8UbPqhcgYDiV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -77,42 +78,66 @@
       <updated>1586159234099</updated>
       <workItem from="1586159237634" duration="2890000" />
       <workItem from="1586163785918" duration="239000" />
-      <workItem from="1586164264155" duration="496000" />
+      <workItem from="1586164264155" duration="3841000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode week 1 problem 1">
+      <created>1586164934403</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586164934403</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode week 1 problem 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode week 1 problem 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586159262892">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="686" y="413" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1200@0.0.1920.1200" timestamp="1586159262892" />
-    <state x="568" y="206" key="CommitChangelistDialog2" timestamp="1586164858232">
+    <state x="748" y="314" key="#xdebugger.evaluate" timestamp="1586166669515">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state x="568" y="206" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1586164858232" />
-    <state width="1588" height="311" key="GridCell.Tab.0.bottom" timestamp="1586164858284">
+    <state x="748" y="314" key="#xdebugger.evaluate/0.0.1920.1200@0.0.1920.1200" timestamp="1586166669515" />
+    <state x="568" y="206" key="CommitChangelistDialog2" timestamp="1586164934266">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1586164858284" />
-    <state width="1588" height="311" key="GridCell.Tab.0.center" timestamp="1586164858283">
+    <state x="568" y="206" key="CommitChangelistDialog2/0.0.1920.1200@0.0.1920.1200" timestamp="1586164934266" />
+    <state width="437" height="466" key="DebuggerActiveHint" timestamp="1586166843571">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="311" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1586164858283" />
-    <state width="1588" height="311" key="GridCell.Tab.0.left" timestamp="1586164858282">
+    <state width="437" height="466" key="DebuggerActiveHint/0.0.1920.1200@0.0.1920.1200" timestamp="1586166843571" />
+    <state width="1588" height="311" key="GridCell.Tab.0.bottom" timestamp="1586168164802">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="311" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1586164858282" />
-    <state width="1588" height="311" key="GridCell.Tab.0.right" timestamp="1586164858283">
+    <state width="1588" height="311" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1586168164802" />
+    <state width="1588" height="311" key="GridCell.Tab.0.center" timestamp="1586168164801">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
-    <state width="1588" height="311" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1586164858283" />
+    <state width="1588" height="311" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1586168164801" />
+    <state width="1588" height="311" key="GridCell.Tab.0.left" timestamp="1586168164800">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1588" height="311" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1586168164800" />
+    <state width="1588" height="311" key="GridCell.Tab.0.right" timestamp="1586168164801">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1588" height="311" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1586168164801" />
     <state x="486" y="242" width="1434" height="722" key="SettingsEditor" timestamp="1586164597988">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="486" y="242" width="1434" height="722" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1586164597988" />
+    <state x="585" y="343" key="Vcs.Push.Dialog.v2" timestamp="1586164935795">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="585" y="343" key="Vcs.Push.Dialog.v2/0.0.1920.1200@0.0.1920.1200" timestamp="1586164935795" />
     <state x="707" y="302" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1586159554153">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
@@ -125,6 +150,11 @@
           <url>file://$PROJECT_DIR$/main.cpp</url>
           <line>4</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/leet2_maxSubArray.cpp</url>
+          <line>47</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

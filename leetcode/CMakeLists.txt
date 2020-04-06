@@ -3,4 +3,4 @@ project(dash)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(dash main.cpp leet1_singleNumber.cpp leet1_singleNumber2.cpp)
+add_executable(dash main.cpp leet1_singleNumber.cpp leet1_singleNumber2.cpp leet2_maxSubArray.cpp)
