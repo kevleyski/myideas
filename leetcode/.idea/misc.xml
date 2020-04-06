@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="ProjectResources">
+    <resource url="http://www.w3.org/1999/xlink" location="$APPLICATION_HOME_DIR$/lib/intellij-xml.jar!/standardSchemas/xlink.dtd" />
+    <resource url="urn:mpeg:dash:schema:mpd:2011" location="$PROJECT_DIR$/../xml_xsd_schemas/mpeg-dash.xsd" />
+  </component>
+</project>

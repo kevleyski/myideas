@@ -1,0 +1,3 @@
+/Users/klambert/workspace/dash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/klambert/workspace/dash/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/klambert/workspace/dash/cmake-build-debug/CMakeFiles/dash.dir
